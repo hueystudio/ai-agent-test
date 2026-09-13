@@ -12,3 +12,5 @@ wheels/
 .idea/
 .ruff_cache/
 .env
+
+pgdata/
